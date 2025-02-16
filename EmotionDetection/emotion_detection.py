@@ -38,7 +38,6 @@ def emotion_detector(text_to_analyze):
         "dominant_emotion": dominant_emotion
     }
 
-
     return data
 
-print(emotion_detector('i love this technology'))
+# print(emotion_detector('i love this technology'))
